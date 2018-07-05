@@ -1,2 +1,2 @@
 # hello-world
-practicing creation of a repositiory
+practicing creation of a repository
